@@ -1,6 +1,6 @@
-# Gamma-Lang
+# Gamma++ Language
 This repository is about new Gamma Programming Language
-## Syntax
+## Gamma Syntax
 I will publish syntax and examples in this repository soon.
 ## Compiler Releases
 I am currently working on compiler.
