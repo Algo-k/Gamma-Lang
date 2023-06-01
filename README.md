@@ -1,4 +1,4 @@
-# Gamma++ Language
+# Γ++ Language
 This repository is about new Gamma Programming Language
 ## Gamma Syntax
 I will publish syntax and examples in this repository soon.
