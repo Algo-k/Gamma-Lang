@@ -1,8 +1,8 @@
 ![Data Types](https://raw.githubusercontent.com/wiki/Algo-k/Gamma-Plus-Plus-Lang/Image/Ray.jfif)<br/>
 This repository is about new Gamma Programming Language
 ## Gamma Syntax
-I will publish syntax and examples in this repository soon.
-For know about syntax and other things see wiki: [Github Wiki](https://github.com/Algo-k/Gamma-Plus-Plus-Lang/wiki)
+For know about syntax and other things see wiki:<br/>
+[Github Wiki](https://github.com/Algo-k/Gamma-Plus-Plus-Lang/wiki)
 ## Compiler Releases
 I am currently working on compiler.
 I will publish releases of compiler here.
