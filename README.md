@@ -8,4 +8,8 @@ I am currently working on compiler.
 I will publish releases of compiler here.
 First a compiler with debug output will be published.
 Then final optimized output compiler will be published.
+## Links and Contact
+[LinkedIn Page](https://www.linkedin.com/company/gamma-programming-language)<br/>
+<br/>
+EMail: Havaledar1988@gmail.com<br/>
 
